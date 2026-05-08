@@ -1,0 +1,5 @@
+outputs/models/*.pth
+outputs/models/*.npy
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
